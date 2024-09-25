@@ -22,3 +22,5 @@
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-282C34?style=flat&logo=styled-components&logoColor=DB7093) Usado para aplicar estilos diretamente nos componentes, mantendo o design organizado e coerente em todo o site.
 
 ![CSS](https://img.shields.io/badge/-CSS-282C34?style=flat&logo=css3&logoColor=1572B6) Usado para a estilização geral do site, contribuindo para um layout responsivo e atraente.
+
+![React Router Dom](https://img.shields.io/badge/-React%20Router%20Dom-282C34?style=flat&logo=react-router&logoColor=CA4245) Utilizado para gerenciar a navegação entre diferentes páginas do aplicativo de forma dinâmica.
