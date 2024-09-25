@@ -21,12 +21,4 @@
 
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-282C34?style=flat&logo=styled-components&logoColor=DB7093) Usado para aplicar estilos diretamente nos componentes, mantendo o design organizado e coerente em todo o site.
 
-
-
-
 ![CSS](https://img.shields.io/badge/-CSS-282C34?style=flat&logo=css3&logoColor=1572B6) Usado para a estilização geral do site, contribuindo para um layout responsivo e atraente.
-
-
-## Licença
-
-• Este projeto utiliza a Licença MIT. Para mais informações, consulte o arquivo [LICENSE](./LICENSE).
